@@ -11,11 +11,18 @@
 int main(void)
 {
 	char bad = 'a';
+	char Bad = 'A';
 
 	while (bad <= 'z')
 	{
 		putchar(bad);
 		bad++;
+	}
+
+	while (Bad <= 'Z')
+	{
+		putchar(Bad);
+		Bad++;
 	}
 	putchar('\n');
 
