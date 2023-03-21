@@ -14,7 +14,7 @@ int main(void)
 	int start = 0;
 	char str[] = "_putchar";
 
-	while (start < sizeof(str))
+	while (start < 8)
 	{
 		_putchar(str[start]);
 		start++;
