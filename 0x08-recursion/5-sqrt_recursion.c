@@ -2,9 +2,10 @@
 
 /**
  * sqrt_recursion_gusser - recurses to find the natural
- * square root of a number
- * @n: number to calculate the sqaure root of
- * @i: iterator
+ * square root of a number.
+ *
+ * @n: number to calculate the sqaure root
+ * @i: iterator number
  *
  * Return: the resulting square root
  */
