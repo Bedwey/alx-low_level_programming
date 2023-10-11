@@ -1,5 +1,4 @@
 #include "search_algos.h"
-#include <math.h>
 
 /**
  * min_value - finds the minimum of two values
@@ -10,9 +9,9 @@
  */
 size_t min_value(size_t a, size_t b)
 {
-	if (b < a)
-		return (b);
-	return (a);
+        if (b < a)
+                return (b);
+        return (a);
 }
 
 /**
