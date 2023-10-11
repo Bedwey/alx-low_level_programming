@@ -2,7 +2,7 @@
 
 /**
  * linear_search - implement linear search
- * 	algorithm.
+ *	algorithm.
  * @array: given array to search in
  * @size: size of the array
  * @value: value to search for
